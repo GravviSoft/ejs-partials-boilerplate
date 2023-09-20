@@ -1,1 +1,1 @@
-# ejs-partials-boilerplate
+# EJS Partials Boilerplate
